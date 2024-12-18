@@ -1,0 +1,970 @@
+
+{
+    "dateid": "2024-04-02",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a7\u03a1\u0397\u03a3\u03a4\u039f\u03a3",
+    "surname": "\u03a0\u0391\u03a1\u0391\u03a3\u039a\u0395\u03a5\u0391\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-04-03",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a0\u0391\u039d\u0391\u0393\u0399\u03a9\u03a4\u0397\u03a3",
+    "surname": "\u03a4\u03a3\u0391\u039b\u039c\u03a0\u0391\u03a1\u0391\u03a3\u0399\u0394\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-04-04",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a7\u03a1\u0397\u03a3\u03a4\u039f\u03a3",
+    "surname": "\u03a0\u0395\u03a4\u039c\u0395\u03a4\u0396\u0391\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-04-05",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0392\u0391\u03a3\u0399\u039b\u0395\u0399\u039f\u03a3",
+    "surname": "\u03a0\u0391\u03a0\u0391\u0393\u0395\u03a9\u03a1\u0393\u0399\u039f\u03a5",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-04-06",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a7\u03a1\u0397\u03a3\u03a4\u039f\u03a3",
+    "surname": "\u03a0\u0395\u03a4\u039c\u0395\u03a4\u0396\u0391\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-04-07",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039c\u03a0\u0391\u039c\u03a0\u0391\u039b\u0397\u03a3",
+    "surname": "\u039c\u03a0\u0391\u039c\u03a0\u0391\u039b\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-04-08",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0395\u03a5\u0393\u0395\u039d\u0399\u0391",
+    "surname": "\u039a\u0395\u039b\u0397\u0393\u0399\u0391\u039d\u039d\u0397",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-04-09",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a7\u03a1\u0397\u03a3\u03a4\u039f\u03a3",
+    "surname": "\u03a0\u0391\u03a1\u0391\u03a3\u039a\u0395\u03a5\u0391\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-04-10",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0392\u0391\u03a3\u0399\u039b\u0395\u0399\u039f\u03a3",
+    "surname": "\u03a0\u0391\u03a0\u0391\u0393\u0395\u03a9\u03a1\u0393\u0399\u039f\u03a5",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-04-11",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a7\u03a1\u0397\u03a3\u03a4\u039f\u03a3",
+    "surname": "\u03a0\u0395\u03a4\u039c\u0395\u03a4\u0396\u0391\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-04-12",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0392\u0399\u039a\u03a4\u03a9\u03a1\u0399\u0391",
+    "surname": "\u03a3\u03a4\u039f\u0393\u0399\u0391\u039d\u039d\u0399\u0394\u039f\u03a5",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-04-13",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0392\u0391\u03a3\u0399\u039b\u0395\u0399\u039f\u03a3",
+    "surname": "\u03a0\u0391\u03a0\u0391\u0393\u0395\u03a9\u03a1\u0393\u0399\u039f\u03a5",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-04-14",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a0\u0391\u03a5\u039b\u039f\u03a3",
+    "surname": "\u03a3\u039f\u03a6\u0399\u0391\u0394\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-04-15",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a0\u0391\u039d\u0391\u0393\u0399\u03a9\u03a4\u0397\u03a3",
+    "surname": "\u03a4\u03a3\u0391\u039b\u039c\u03a0\u0391\u03a1\u0391\u03a3\u0399\u0394\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-04-16",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0392\u0399\u039a\u03a4\u03a9\u03a1\u0399\u0391",
+    "surname": "\u03a3\u03a4\u039f\u0393\u0399\u0391\u039d\u039d\u0399\u0394\u039f\u03a5",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-04-17",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039c\u03a0\u0391\u039c\u03a0\u0391\u039b\u0397\u03a3",
+    "surname": "\u039c\u03a0\u0391\u039c\u03a0\u0391\u039b\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-04-18",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a0\u0391\u039d\u0391\u0393\u0399\u03a9\u03a4\u0397\u03a3",
+    "surname": "\u03a4\u03a3\u0391\u039b\u039c\u03a0\u0391\u03a1\u0391\u03a3\u0399\u0394\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-04-19",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a6\u03a9\u03a4\u0399\u039f\u03a3",
+    "surname": "\u039a\u0391\u03a4\u03a3\u0399\u039a\u03a9\u03a1\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-04-20",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0395\u03a5\u0393\u0395\u039d\u0399\u0391",
+    "surname": "\u039a\u0395\u039b\u0397\u0393\u0399\u0391\u039d\u039d\u0397",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-04-21",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039a\u0391\u039b\u03a4\u03a3\u0391",
+    "surname": "\u039a\u0391\u039b\u03a4\u03a3\u0391",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-04-22",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a0\u0391\u03a5\u039b\u039f\u03a3",
+    "surname": "\u03a3\u039f\u03a6\u0399\u0391\u0394\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-04-23",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039c\u03a0\u0391\u039c\u03a0\u0391\u039b\u0397\u03a3",
+    "surname": "\u039c\u03a0\u0391\u039c\u03a0\u0391\u039b\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-04-24",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0395\u03a5\u0393\u0395\u039d\u0399\u0391",
+    "surname": "\u039a\u0395\u039b\u0397\u0393\u0399\u0391\u039d\u039d\u0397",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-04-25",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a0\u0391\u03a5\u039b\u039f\u03a3",
+    "surname": "\u03a3\u039f\u03a6\u0399\u0391\u0394\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-04-26",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039a\u0391\u039b\u03a4\u03a3\u0391",
+    "surname": "\u039a\u0391\u039b\u03a4\u03a3\u0391",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-04-27",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0392\u0399\u039a\u03a4\u03a9\u03a1\u0399\u0391",
+    "surname": "\u03a3\u03a4\u039f\u0393\u0399\u0391\u039d\u039d\u0399\u0394\u039f\u03a5",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-04-28",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a6\u03a9\u03a4\u0399\u039f\u03a3",
+    "surname": "\u039a\u0391\u03a4\u03a3\u0399\u039a\u03a9\u03a1\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-04-29",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a7\u03a1\u0397\u03a3\u03a4\u039f\u03a3",
+    "surname": "\u03a0\u0391\u03a1\u0391\u03a3\u039a\u0395\u03a5\u0391\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-04-30",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039a\u0391\u039b\u03a4\u03a3\u0391",
+    "surname": "\u039a\u0391\u039b\u03a4\u03a3\u0391",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-01",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a7\u03a1\u0397\u03a3\u03a4\u039f\u03a3",
+    "surname": "\u03a0\u0391\u03a1\u0391\u03a3\u039a\u0395\u03a5\u0391\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-02",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a0\u0391\u03a5\u039b\u039f\u03a3",
+    "surname": "\u03a3\u039f\u03a6\u0399\u0391\u0394\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-03",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039a\u0391\u039b\u03a4\u03a3\u0391",
+    "surname": "\u039a\u0391\u039b\u03a4\u03a3\u0391",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-04",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a7\u03a1\u0397\u03a3\u03a4\u039f\u03a3",
+    "surname": "\u03a0\u0391\u03a1\u0391\u03a3\u039a\u0395\u03a5\u0391\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-05",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a6\u03a9\u03a4\u0399\u039f\u03a3",
+    "surname": "\u039a\u0391\u03a4\u03a3\u0399\u039a\u03a9\u03a1\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-06",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039a\u0391\u039b\u03a4\u03a3\u0391",
+    "surname": "\u039a\u0391\u039b\u03a4\u03a3\u0391",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-07",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a0\u0391\u03a5\u039b\u039f\u03a3",
+    "surname": "\u03a3\u039f\u03a6\u0399\u0391\u0394\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-08",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a7\u03a1\u0397\u03a3\u03a4\u039f\u03a3",
+    "surname": "\u03a0\u0391\u03a1\u0391\u03a3\u039a\u0395\u03a5\u0391\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-09",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039d\u0399\u039a\u039f\u039b\u0391\u039f\u03a3",
+    "surname": "\u039c\u03a0\u0399\u039a\u0391\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-10",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0395\u03a5\u0393\u0395\u039d\u0399\u0391",
+    "surname": "\u039a\u0395\u039b\u0397\u0393\u0399\u0391\u039d\u039d\u0397",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-11",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039d\u0399\u039a\u039f\u039b\u0391\u039f\u03a3",
+    "surname": "\u039c\u03a0\u0399\u039a\u0391\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-12",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a7\u03a1\u0397\u03a3\u03a4\u039f\u03a3",
+    "surname": "\u03a0\u0395\u03a4\u039c\u0395\u03a4\u0396\u0391\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-13",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039d\u0399\u039a\u039f\u039b\u0391\u039f\u03a3",
+    "surname": "\u039c\u03a0\u0399\u039a\u0391\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-14",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a0\u0391\u039d\u0391\u0393\u0399\u03a9\u03a4\u0397\u03a3",
+    "surname": "\u03a4\u03a3\u0391\u039b\u039c\u03a0\u0391\u03a1\u0391\u03a3\u0399\u0394\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-15",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0395\u03a5\u0393\u0395\u039d\u0399\u0391",
+    "surname": "\u039a\u0395\u039b\u0397\u0393\u0399\u0391\u039d\u039d\u0397",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-16",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0392\u0391\u03a3\u0399\u039b\u0395\u0399\u039f\u03a3",
+    "surname": "\u03a0\u0391\u03a0\u0391\u0393\u0395\u03a9\u03a1\u0393\u0399\u039f\u03a5",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-17",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a0\u0391\u039d\u0391\u0393\u0399\u03a9\u03a4\u0397\u03a3",
+    "surname": "\u03a4\u03a3\u0391\u039b\u039c\u03a0\u0391\u03a1\u0391\u03a3\u0399\u0394\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-18",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0392\u0399\u039a\u03a4\u03a9\u03a1\u0399\u0391",
+    "surname": "\u03a3\u03a4\u039f\u0393\u0399\u0391\u039d\u039d\u0399\u0394\u039f\u03a5",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-19",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039c\u03a0\u0391\u039c\u03a0\u0391\u039b\u0397\u03a3",
+    "surname": "\u039c\u03a0\u0391\u039c\u03a0\u0391\u039b\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-20",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a6\u03a9\u03a4\u0399\u039f\u03a3",
+    "surname": "\u039a\u0391\u03a4\u03a3\u0399\u039a\u03a9\u03a1\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-21",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a0\u0391\u03a5\u039b\u039f\u03a3",
+    "surname": "\u03a3\u039f\u03a6\u0399\u0391\u0394\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-22",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a0\u0391\u039d\u0391\u0393\u0399\u03a9\u03a4\u0397\u03a3",
+    "surname": "\u03a4\u03a3\u0391\u039b\u039c\u03a0\u0391\u03a1\u0391\u03a3\u0399\u0394\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-23",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a6\u03a9\u03a4\u0399\u039f\u03a3",
+    "surname": "\u039a\u0391\u03a4\u03a3\u0399\u039a\u03a9\u03a1\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-24",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039c\u03a0\u0391\u039c\u03a0\u0391\u039b\u0397\u03a3",
+    "surname": "\u039c\u03a0\u0391\u039c\u03a0\u0391\u039b\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-25",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0395\u03a5\u0393\u0395\u039d\u0399\u0391",
+    "surname": "\u039a\u0395\u039b\u0397\u0393\u0399\u0391\u039d\u039d\u0397",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-26",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0392\u0391\u03a3\u0399\u039b\u0395\u0399\u039f\u03a3",
+    "surname": "\u03a0\u0391\u03a0\u0391\u0393\u0395\u03a9\u03a1\u0393\u0399\u039f\u03a5",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-27",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039a\u0391\u039b\u03a4\u03a3\u0391",
+    "surname": "\u039a\u0391\u039b\u03a4\u03a3\u0391",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-28",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039c\u03a0\u0391\u039c\u03a0\u0391\u039b\u0397\u03a3",
+    "surname": "\u039c\u03a0\u0391\u039c\u03a0\u0391\u039b\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-29",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0392\u0399\u039a\u03a4\u03a9\u03a1\u0399\u0391",
+    "surname": "\u03a3\u03a4\u039f\u0393\u0399\u0391\u039d\u039d\u0399\u0394\u039f\u03a5",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-30",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0392\u0391\u03a3\u0399\u039b\u0395\u0399\u039f\u03a3",
+    "surname": "\u03a0\u0391\u03a0\u0391\u0393\u0395\u03a9\u03a1\u0393\u0399\u039f\u03a5",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-05-31",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a7\u03a1\u0397\u03a3\u03a4\u039f\u03a3",
+    "surname": "\u03a0\u0395\u03a4\u039c\u0395\u03a4\u0396\u0391\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-01",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a6\u03a9\u03a4\u0399\u039f\u03a3",
+    "surname": "\u039a\u0391\u03a4\u03a3\u0399\u039a\u03a9\u03a1\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-02",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a0\u0391\u03a5\u039b\u039f\u03a3",
+    "surname": "\u03a3\u039f\u03a6\u0399\u0391\u0394\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-03",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039c\u03a0\u0391\u039c\u03a0\u0391\u039b\u0397\u03a3",
+    "surname": "\u039c\u03a0\u0391\u039c\u03a0\u0391\u039b\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-04",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a7\u03a1\u0397\u03a3\u03a4\u039f\u03a3",
+    "surname": "\u03a0\u0395\u03a4\u039c\u0395\u03a4\u0396\u0391\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-05",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0392\u0391\u03a3\u0399\u039b\u0395\u0399\u039f\u03a3",
+    "surname": "\u03a0\u0391\u03a0\u0391\u0393\u0395\u03a9\u03a1\u0393\u0399\u039f\u03a5",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-06",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039a\u0391\u039b\u03a4\u03a3\u0391",
+    "surname": "\u039a\u0391\u039b\u03a4\u03a3\u0391",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-07",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0392\u0399\u039a\u03a4\u03a9\u03a1\u0399\u0391",
+    "surname": "\u03a3\u03a4\u039f\u0393\u0399\u0391\u039d\u039d\u0399\u0394\u039f\u03a5",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-08",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0392\u0391\u03a3\u0399\u039b\u0395\u0399\u039f\u03a3",
+    "surname": "\u03a0\u0391\u03a0\u0391\u0393\u0395\u03a9\u03a1\u0393\u0399\u039f\u03a5",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-09",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039c\u03a0\u0391\u039c\u03a0\u0391\u039b\u0397\u03a3",
+    "surname": "\u039c\u03a0\u0391\u039c\u03a0\u0391\u039b\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-10",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a0\u0391\u03a5\u039b\u039f\u03a3",
+    "surname": "\u03a3\u039f\u03a6\u0399\u0391\u0394\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-11",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0392\u0399\u039a\u03a4\u03a9\u03a1\u0399\u0391",
+    "surname": "\u03a3\u03a4\u039f\u0393\u0399\u0391\u039d\u039d\u0399\u0394\u039f\u03a5",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-12",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0395\u03a5\u0393\u0395\u039d\u0399\u0391",
+    "surname": "\u039a\u0395\u039b\u0397\u0393\u0399\u0391\u039d\u039d\u0397",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-13",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a0\u0391\u03a5\u039b\u039f\u03a3",
+    "surname": "\u03a3\u039f\u03a6\u0399\u0391\u0394\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-14",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a6\u03a9\u03a4\u0399\u039f\u03a3",
+    "surname": "\u039a\u0391\u03a4\u03a3\u0399\u039a\u03a9\u03a1\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-15",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a0\u0391\u039d\u0391\u0393\u0399\u03a9\u03a4\u0397\u03a3",
+    "surname": "\u03a4\u03a3\u0391\u039b\u039c\u03a0\u0391\u03a1\u0391\u03a3\u0399\u0394\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-16",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039a\u0391\u039b\u03a4\u03a3\u0391",
+    "surname": "\u039a\u0391\u039b\u03a4\u03a3\u0391",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-17",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039c\u03a0\u0391\u039c\u03a0\u0391\u039b\u0397\u03a3",
+    "surname": "\u039c\u03a0\u0391\u039c\u03a0\u0391\u039b\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-18",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a0\u0391\u039d\u0391\u0393\u0399\u03a9\u03a4\u0397\u03a3",
+    "surname": "\u03a4\u03a3\u0391\u039b\u039c\u03a0\u0391\u03a1\u0391\u03a3\u0399\u0394\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-19",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a6\u03a9\u03a4\u0399\u039f\u03a3",
+    "surname": "\u039a\u0391\u03a4\u03a3\u0399\u039a\u03a9\u03a1\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-20",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039a\u0391\u039b\u03a4\u03a3\u0391",
+    "surname": "\u039a\u0391\u039b\u03a4\u03a3\u0391",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-21",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a7\u03a1\u0397\u03a3\u03a4\u039f\u03a3",
+    "surname": "\u03a0\u0395\u03a4\u039c\u0395\u03a4\u0396\u0391\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-22",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039d\u0399\u039a\u039f\u039b\u0391\u039f\u03a3",
+    "surname": "\u039c\u03a0\u0399\u039a\u0391\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-23",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0395\u03a5\u0393\u0395\u039d\u0399\u0391",
+    "surname": "\u039a\u0395\u039b\u0397\u0393\u0399\u0391\u039d\u039d\u0397",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-24",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0392\u0399\u039a\u03a4\u03a9\u03a1\u0399\u0391",
+    "surname": "\u03a3\u03a4\u039f\u0393\u0399\u0391\u039d\u039d\u0399\u0394\u039f\u03a5",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-25",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039d\u0399\u039a\u039f\u039b\u0391\u039f\u03a3",
+    "surname": "\u039c\u03a0\u0399\u039a\u0391\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-26",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a7\u03a1\u0397\u03a3\u03a4\u039f\u03a3",
+    "surname": "\u03a0\u0391\u03a1\u0391\u03a3\u039a\u0395\u03a5\u0391\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-27",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039d\u0399\u039a\u039f\u039b\u0391\u039f\u03a3",
+    "surname": "\u039c\u03a0\u0399\u039a\u0391\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-28",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0392\u0391\u03a3\u0399\u039b\u0395\u0399\u039f\u03a3",
+    "surname": "\u03a0\u0391\u03a0\u0391\u0393\u0395\u03a9\u03a1\u0393\u0399\u039f\u03a5",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-29",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a7\u03a1\u0397\u03a3\u03a4\u039f\u03a3",
+    "surname": "\u03a0\u0395\u03a4\u039c\u0395\u03a4\u0396\u0391\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-06-30",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a7\u03a1\u0397\u03a3\u03a4\u039f\u03a3",
+    "surname": "\u03a0\u0391\u03a1\u0391\u03a3\u039a\u0395\u03a5\u0391\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-01",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0395\u03a5\u0393\u0395\u039d\u0399\u0391",
+    "surname": "\u039a\u0395\u039b\u0397\u0393\u0399\u0391\u039d\u039d\u0397",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-02",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0392\u0391\u03a3\u0399\u039b\u0395\u0399\u039f\u03a3",
+    "surname": "\u03a0\u0391\u03a0\u0391\u0393\u0395\u03a9\u03a1\u0393\u0399\u039f\u03a5",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-03",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0395\u03a5\u0393\u0395\u039d\u0399\u0391",
+    "surname": "\u039a\u0395\u039b\u0397\u0393\u0399\u0391\u039d\u039d\u0397",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-04",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a0\u0391\u03a5\u039b\u039f\u03a3",
+    "surname": "\u03a3\u039f\u03a6\u0399\u0391\u0394\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-05",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0395\u03a5\u0393\u0395\u039d\u0399\u0391",
+    "surname": "\u039a\u0395\u039b\u0397\u0393\u0399\u0391\u039d\u039d\u0397",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-06",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a7\u03a1\u0397\u03a3\u03a4\u039f\u03a3",
+    "surname": "\u03a0\u0395\u03a4\u039c\u0395\u03a4\u0396\u0391\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-07",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a6\u03a9\u03a4\u0399\u039f\u03a3",
+    "surname": "\u039a\u0391\u03a4\u03a3\u0399\u039a\u03a9\u03a1\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-08",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039a\u0391\u039b\u03a4\u03a3\u0391",
+    "surname": "\u039a\u0391\u039b\u03a4\u03a3\u0391",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-09",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039c\u03a0\u0391\u039c\u03a0\u0391\u039b\u0397\u03a3",
+    "surname": "\u039c\u03a0\u0391\u039c\u03a0\u0391\u039b\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-10",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a0\u0391\u03a5\u039b\u039f\u03a3",
+    "surname": "\u03a3\u039f\u03a6\u0399\u0391\u0394\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-11",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a6\u03a9\u03a4\u0399\u039f\u03a3",
+    "surname": "\u039a\u0391\u03a4\u03a3\u0399\u039a\u03a9\u03a1\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-12",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0392\u0391\u03a3\u0399\u039b\u0395\u0399\u039f\u03a3",
+    "surname": "\u03a0\u0391\u03a0\u0391\u0393\u0395\u03a9\u03a1\u0393\u0399\u039f\u03a5",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-13",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039a\u0391\u039b\u03a4\u03a3\u0391",
+    "surname": "\u039a\u0391\u039b\u03a4\u03a3\u0391",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-14",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a0\u0391\u03a5\u039b\u039f\u03a3",
+    "surname": "\u03a3\u039f\u03a6\u0399\u0391\u0394\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-15",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039a\u0391\u039b\u03a4\u03a3\u0391",
+    "surname": "\u039a\u0391\u039b\u03a4\u03a3\u0391",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-16",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039c\u03a0\u0391\u039c\u03a0\u0391\u039b\u0397\u03a3",
+    "surname": "\u039c\u03a0\u0391\u039c\u03a0\u0391\u039b\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-17",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a7\u03a1\u0397\u03a3\u03a4\u039f\u03a3",
+    "surname": "\u03a0\u0395\u03a4\u039c\u0395\u03a4\u0396\u0391\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-18",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a0\u0391\u03a5\u039b\u039f\u03a3",
+    "surname": "\u03a3\u039f\u03a6\u0399\u0391\u0394\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-19",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a7\u03a1\u0397\u03a3\u03a4\u039f\u03a3",
+    "surname": "\u03a0\u0391\u03a1\u0391\u03a3\u039a\u0395\u03a5\u0391\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-20",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039c\u03a0\u0391\u039c\u03a0\u0391\u039b\u0397\u03a3",
+    "surname": "\u039c\u03a0\u0391\u039c\u03a0\u0391\u039b\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-21",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0392\u0391\u03a3\u0399\u039b\u0395\u0399\u039f\u03a3",
+    "surname": "\u03a0\u0391\u03a0\u0391\u0393\u0395\u03a9\u03a1\u0393\u0399\u039f\u03a5",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-22",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0392\u0399\u039a\u03a4\u03a9\u03a1\u0399\u0391",
+    "surname": "\u03a3\u03a4\u039f\u0393\u0399\u0391\u039d\u039d\u0399\u0394\u039f\u03a5",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-23",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a7\u03a1\u0397\u03a3\u03a4\u039f\u03a3",
+    "surname": "\u03a0\u0391\u03a1\u0391\u03a3\u039a\u0395\u03a5\u0391\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-24",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0392\u0391\u03a3\u0399\u039b\u0395\u0399\u039f\u03a3",
+    "surname": "\u03a0\u0391\u03a0\u0391\u0393\u0395\u03a9\u03a1\u0393\u0399\u039f\u03a5",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-25",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u039c\u03a0\u0391\u039c\u03a0\u0391\u039b\u0397\u03a3",
+    "surname": "\u039c\u03a0\u0391\u039c\u03a0\u0391\u039b\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-26",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a6\u03a9\u03a4\u0399\u039f\u03a3",
+    "surname": "\u039a\u0391\u03a4\u03a3\u0399\u039a\u03a9\u03a1\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-27",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0392\u0399\u039a\u03a4\u03a9\u03a1\u0399\u0391",
+    "surname": "\u03a3\u03a4\u039f\u0393\u0399\u0391\u039d\u039d\u0399\u0394\u039f\u03a5",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-28",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a7\u03a1\u0397\u03a3\u03a4\u039f\u03a3",
+    "surname": "\u03a0\u0391\u03a1\u0391\u03a3\u039a\u0395\u03a5\u0391\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-29",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a7\u03a1\u0397\u03a3\u03a4\u039f\u03a3",
+    "surname": "\u03a0\u0395\u03a4\u039c\u0395\u03a4\u0396\u0391\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-30",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u03a6\u03a9\u03a4\u0399\u039f\u03a3",
+    "surname": "\u039a\u0391\u03a4\u03a3\u0399\u039a\u03a9\u03a1\u0397\u03a3",
+    "post": "apil",
+    "postid": "4"
+},
+{
+    "dateid": "2024-07-31",
+    "rankName": "\u0395\u03c0\u03b9\u03bb\u03bf\u03c7\u03b9\u03b1\u03c2",
+    "name": "\u0392\u0399\u039a\u03a4\u03a9\u03a1\u0399\u0391",
+    "surname": "\u03a3\u03a4\u039f\u0393\u0399\u0391\u039d\u039d\u0399\u0394\u039f\u03a5",
+    "post": "apil",
+    "postid": "4"
+}
+]
