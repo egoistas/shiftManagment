@@ -1,7 +1,8 @@
 
 # Shift Management Web App
 
-A complete web application for duty scheduling, statistics tracking, and personnel management.
+A complete web application for duty scheduling, statistics tracking, and personnel management.To run this app 
+please run database.sql in your MySql framework to build the project's database schema.
 
 ## Features
 
